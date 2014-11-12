@@ -7,6 +7,7 @@ backbone-espresso-logic provides a simple way to adapt your Backbone.Model to Es
  by providing API Filter configuration and response data parsing.
 
 Licence: MIT (see LICENCE file)
+see https://github.com/EspressoLogicCafe/npm-espressologic for an SDK to read the meta model (@tables) and create generated resources for backbone developers. 
 
 ## API Filter usage : ##
 
